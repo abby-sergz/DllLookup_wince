@@ -1,0 +1,3 @@
+LIBRARY	"dummy_dll"
+EXPORTS
+	dummy_function
