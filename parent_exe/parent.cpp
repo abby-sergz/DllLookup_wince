@@ -6,7 +6,7 @@
 #include <sstream>
 #include <windows.h>
 
-#define USE_DUMMY_DLL 1
+//#define USE_DUMMY_DLL 1
 
 using namespace std;
 

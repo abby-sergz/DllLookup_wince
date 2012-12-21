@@ -55,10 +55,14 @@ Global
 		{AABBA4F6-0A6A-409B-9B6E-A91957800F0B}.Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).Deploy.0 = Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I)
 		{AABBA4F6-0A6A-409B-EE6E-A91957800F0B}.Debug|Win32.ActiveCfg = Debug|Win32
 		{AABBA4F6-0A6A-409B-EE6E-A91957800F0B}.Debug|Win32.Build.0 = Debug|Win32
-		{AABBA4F6-0A6A-409B-EE6E-A91957800F0B}.Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Debug|Win32
+		{AABBA4F6-0A6A-409B-EE6E-A91957800F0B}.Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I)
+		{AABBA4F6-0A6A-409B-EE6E-A91957800F0B}.Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).Build.0 = Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I)
+		{AABBA4F6-0A6A-409B-EE6E-A91957800F0B}.Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).Deploy.0 = Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I)
 		{AABBA4F6-0A6A-409B-EE6E-A91957800F0B}.Release|Win32.ActiveCfg = Release|Win32
 		{AABBA4F6-0A6A-409B-EE6E-A91957800F0B}.Release|Win32.Build.0 = Release|Win32
-		{AABBA4F6-0A6A-409B-EE6E-A91957800F0B}.Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Release|Win32
+		{AABBA4F6-0A6A-409B-EE6E-A91957800F0B}.Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I)
+		{AABBA4F6-0A6A-409B-EE6E-A91957800F0B}.Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).Build.0 = Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I)
+		{AABBA4F6-0A6A-409B-EE6E-A91957800F0B}.Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).Deploy.0 = Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I)
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
